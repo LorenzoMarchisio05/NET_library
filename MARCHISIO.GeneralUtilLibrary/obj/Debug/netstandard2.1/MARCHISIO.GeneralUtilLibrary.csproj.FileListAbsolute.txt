@@ -1,0 +1,10 @@
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.csproj.AssemblyReference.cache
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.AssemblyInfoInputs.cache
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.AssemblyInfo.cs
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.csproj.CoreCompileInputs.cache
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/bin/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.deps.json
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/bin/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.dll
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/bin/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.pdb
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.dll
+/Users/lorenzomarchisio/Documents/CodingProjects/C# project/MARCHISIO.GeneralUtilLibrary/MARCHISIO.GeneralUtilLibrary/obj/Debug/netstandard2.1/MARCHISIO.GeneralUtilLibrary.pdb

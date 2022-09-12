@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MARCHISIO.GeneralUtilLibrary", "MARCHISIO.GeneralUtilLibrary\MARCHISIO.GeneralUtilLibrary.csproj", "{0769B6B6-482E-44D9-A822-E4E9990E0E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0769B6B6-482E-44D9-A822-E4E9990E0E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0769B6B6-482E-44D9-A822-E4E9990E0E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0769B6B6-482E-44D9-A822-E4E9990E0E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0769B6B6-482E-44D9-A822-E4E9990E0E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B45AF3D-96EA-453F-B407-4D0A41FF468B}
+	EndGlobalSection
+EndGlobal
